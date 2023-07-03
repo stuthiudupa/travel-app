@@ -1,0 +1,11 @@
+POST http://localhost:4000/billing
+Content-Type: application/json
+
+{
+    "firstName":"Millet",
+    "email":"millet@mail.com",
+    "mobileno":"12345",
+    "pincode":"1234",
+    "address":"#123, 1st Cross, 2nd Main Road",
+    "city":"Seasoning City"
+}
